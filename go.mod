@@ -1,6 +1,6 @@
 module github.com/fydrah/loginapp
 
-go 1.21
+go 1.21.0
 
 require (
 	github.com/cenkalti/backoff v2.2.1+incompatible

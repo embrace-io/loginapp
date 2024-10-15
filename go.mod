@@ -9,7 +9,7 @@ require (
 	github.com/gobuffalo/packr/v2 v2.8.3
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c
-	github.com/prometheus/client_golang v1.20.4
+	github.com/prometheus/client_golang v1.20.5
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
